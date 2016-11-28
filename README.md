@@ -1,2 +1,2 @@
-# elasticnmap
-Nmap results into ElasticSearch
+# nmap
+Nmap plugin stores results into ES
